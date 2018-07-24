@@ -1,0 +1,14 @@
+A long time ago, in a galaxy far, far away
+there lived a Jedi named {name}. {name}
+liked to move {thing} with the force, but {name}'s home 
+planet, {planet}, had very
+few {thing} around.  One day, a Jedi master
+found {name} and discovered
+they liked moving {thing}.  The Jedi master took 
+{name} back to {different planet}, where {name} could
+move as many {thing} as desired.  However,
+{name} became homesick, so the
+Jedi master brought {name} back to {planet},
+leaving a large repository of {thing}.
+
+Until next time...
